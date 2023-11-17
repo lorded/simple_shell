@@ -1,5 +1,5 @@
 #include "shell.h"
-#include <stdio.h>
+
 /**
  * main - entry point
  * Return: output
